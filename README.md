@@ -2,6 +2,10 @@
 
 # Gemini AI Prompting Techniques
 
+## Live Link
+
+   https://promptcomparison-bnjm8zzawvg6exwjaabdpc.streamlit.app/
+
 ## Project Overview
 
 Gemini AI Prompting Techniques is a Streamlit-based web application that demonstrates different prompting techniques using Google's Gemini Large Language Model (LLM). Users can select a prompting technique, enter a task, and generate AI-powered responses.
